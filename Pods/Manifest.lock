@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BTNavigationDropdownMenu (0.5)
+  - FlagKit (2.2)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - ObjectMapper (3.5.1)
+  - SVProgressHUD (2.2.5)
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BTNavigationDropdownMenu
+  - FlagKit
+  - Kingfisher
+  - ObjectMapper
+  - SVProgressHUD
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BTNavigationDropdownMenu
+    - FlagKit
+    - Kingfisher
+    - ObjectMapper
+    - SVProgressHUD
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: 602bee97988a705370eaa7c58c843acdb33f0e8b
+
+COCOAPODS: 1.8.4
